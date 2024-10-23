@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DSAlgo/src/test/java"/>
+	<classpathentry kind="lib" path="C:/Users/John/.m2/repository/io/cucumber/cucumber-java/7.19.0/cucumber-java-7.19.0.jar" sourcepath="C:/Users/John/.m2/repository/io/cucumber/cucumber-java/7.19.0/cucumber-java-7.19.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.cucumber"/>
+			<attribute name="maven.artifactId" value="cucumber-java"/>
+			<attribute name="maven.version" value="7.19.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="DSAlgo/target/test-classes"/>
+</classpath>
