@@ -9,4 +9,5 @@ public class CommonPom {
 	 * driver.get("https://tutorialsninja.com/demo/\r\n");
 	 * driver.manage().window().maximize();
 	 */
+	System.out.println("Test commit");
 }
