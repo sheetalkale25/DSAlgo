@@ -4,7 +4,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class array_dsalgo_SD {
+public class DSAlgoArray_SD {
 
 @Given("The user is in homepage")
 public void the_user_is_in_homepage() {
